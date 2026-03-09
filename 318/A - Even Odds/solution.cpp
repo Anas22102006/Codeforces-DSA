@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std;int main(){    long long n,p;    cin >> n >> p;    long long odd=(n+1)/2;    if(p <= odd){        cout << (1+(p-1)*2) ;            }    else{        p-=odd;        cout << p*2 ;    }    return 0;}
