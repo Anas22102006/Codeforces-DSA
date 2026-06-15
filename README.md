@@ -6,14 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 2 |
+| 3 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [implementation](#implementation) (2)
+- [brute force](#brute-force) (1)
+- [implementation](#implementation) (3)
+- [strings](#strings) (1)
 
 ---
 
@@ -23,12 +25,25 @@
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 
 ---
 
