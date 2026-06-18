@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 8 |
+| 11 | 8 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (9)
-- [math](#math) (2)
+- [math](#math) (3)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
 
@@ -68,6 +68,7 @@
 |---|---------|------------|----------|
 | 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.cpp) |
 | 476A | [Dreamoon and Stairs](https://codeforces.com/contest/476/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/476/A%20-%20Dreamoon%20and%20Stairs/solution.cpp) |
+| 584A | [Olesya and Rodion](https://codeforces.com/contest/584/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/584/A%20-%20Olesya%20and%20Rodion/solution.cpp) |
 
 ### sortings
 
