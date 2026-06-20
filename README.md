@@ -6,15 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 9 |
+| 13 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (1)
+- [*special](#special) (2)
 - [brute force](#brute-force) (2)
-- [geometry](#geometry) (1)
+- [geometry](#geometry) (2)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (10)
 - [math](#math) (4)
@@ -29,6 +29,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 683A | [The Check of the Point](https://codeforces.com/contest/683/problem/A) | 1200 | [Kotlin 1.7](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/683/A%20-%20The%20Check%20of%20the%20Point/solution.txt) |
 
 ### brute force
 
@@ -42,6 +43,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.cpp) |
+| 683A | [The Check of the Point](https://codeforces.com/contest/683/problem/A) | 1200 | [Kotlin 1.7](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/683/A%20-%20The%20Check%20of%20the%20Point/solution.txt) |
 
 ### greedy
 
