@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 10 |
+| 16 | 10 |
 
 ---
 
@@ -17,8 +17,8 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (11)
-- [math](#math) (5)
+- [implementation](#implementation) (12)
+- [math](#math) (6)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
@@ -64,6 +64,7 @@
 |---|---------|------------|----------|
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.cpp) |
 | 379A | [New Year Candles](https://codeforces.com/contest/379/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/379/A%20-%20New%20Year%20Candles/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
@@ -78,6 +79,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.cpp) |
 | 476A | [Dreamoon and Stairs](https://codeforces.com/contest/476/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/476/A%20-%20Dreamoon%20and%20Stairs/solution.cpp) |
 | 584A | [Olesya and Rodion](https://codeforces.com/contest/584/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/584/A%20-%20Olesya%20and%20Rodion/solution.cpp) |
