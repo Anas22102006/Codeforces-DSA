@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 10 |
+| 20 | 10 |
 
 ---
 
@@ -17,9 +17,9 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (13)
+- [implementation](#implementation) (14)
 - [math](#math) (7)
-- [number theory](#number-theory) (2)
+- [number theory](#number-theory) (3)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
 
@@ -67,6 +67,7 @@
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.cpp) |
+| 313A | [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/313/A%20-%20Ilya%20and%20Bank%20Account/solution.cpp) |
 | 379A | [New Year Candles](https://codeforces.com/contest/379/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/379/A%20-%20New%20Year%20Candles/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 | 476A | [Dreamoon and Stairs](https://codeforces.com/contest/476/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/476/A%20-%20Dreamoon%20and%20Stairs/solution.cpp) |
@@ -93,6 +94,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 313A | [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/313/A%20-%20Ilya%20and%20Bank%20Account/solution.cpp) |
 | 742A | [Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/742/A%20-%20Arpa%E2%80%99s%20hard%20exam%20and%20Mehrdad%E2%80%99s%20naive%20cheat/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 
