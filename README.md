@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 10 |
+| 23 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
+- [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [geometry](#geometry) (2)
@@ -31,6 +32,12 @@
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 683A | [The Check of the Point](https://codeforces.com/contest/683/problem/A) | 1200 | [Kotlin 1.7](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/683/A%20-%20The%20Check%20of%20the%20Point/solution.txt) |
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 579A | [Raising Bacteria](https://codeforces.com/contest/579/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/579/A%20-%20Raising%20Bacteria/solution.cpp) |
 
 ### brute force
 
