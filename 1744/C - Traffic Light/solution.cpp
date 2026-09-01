@@ -1,12 +1,15 @@
 #include <bits/stdc++.h>
 using namespace std;
  
-int main() {
- 
+int main()
+{
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr);
     int T;
     cin >> T;
  
-    while (T--) {
+    while (T--)
+    {
  
         int n;
         char curr;
@@ -15,9 +18,9 @@ int main() {
         cin >> n >> curr;
         cin >> seq;
  
-        if (curr == 'g') {
-            cout << 0 << '
-';
+        if (curr == 'g')
+        {
+            cout << 0 << endl;
             continue;
         }
  
@@ -26,19 +29,21 @@ int main() {
         int cnt = 0;
         int lastGreen = -1;
  
-        for (int i = conv.length() - 1; i >= 0; i--) {
+        for (int i = conv.length() - 1; i >= 0; i--)
+        {
  
-            if (conv[i] == 'g') {
+            if (conv[i] == 'g')
+            {
                 lastGreen = i;
             }
  
-            if (conv[i] == curr) {
+            if (conv[i] == curr)
+            {
                 cnt = max(cnt, lastGreen - i);
             }
         }
  
-        cout << cnt << '
-';
+        cout << cnt << endl;
     }
  
     return 0;
