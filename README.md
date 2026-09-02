@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 13 |
+| 15 | 11 |
 
 ---
 
@@ -14,15 +14,13 @@
 
 - [*special](#special) (2)
 - [binary search](#binary-search) (1)
-- [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (2)
-- [constructive algorithms](#constructive-algorithms) (1)
 - [geometry](#geometry) (2)
-- [greedy](#greedy) (2)
-- [implementation](#implementation) (17)
-- [math](#math) (7)
-- [number theory](#number-theory) (4)
-- [sortings](#sortings) (2)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (11)
+- [math](#math) (5)
+- [number theory](#number-theory) (1)
+- [sortings](#sortings) (1)
 - [strings](#strings) (1)
 - [two pointers](#two-pointers) (1)
 
@@ -41,24 +39,12 @@
 |---|---------|------------|----------|
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 
-### bitmasks
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 579A | [Raising Bacteria](https://codeforces.com/contest/579/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/579/A%20-%20Raising%20Bacteria/solution.cpp) |
-
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1520A | [Do Not Be Distracted!](https://codeforces.com/contest/1520/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/1520/A%20-%20Do%20Not%20Be%20Distracted!/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
-
-### constructive algorithms
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 
 ### geometry
 
@@ -71,7 +57,6 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/34/B%20-%20Sale/solution.cpp) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 
 ### implementation
@@ -80,16 +65,10 @@
 |---|---------|------------|----------|
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
-| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.cpp) |
-| 313A | [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/313/A%20-%20Ilya%20and%20Bank%20Account/solution.cpp) |
 | 379A | [New Year Candles](https://codeforces.com/contest/379/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/379/A%20-%20New%20Year%20Candles/solution.cpp) |
-| 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
-| 474A | [Keyboard](https://codeforces.com/contest/474/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/474/A%20-%20Keyboard/solution.cpp) |
 | 476A | [Dreamoon and Stairs](https://codeforces.com/contest/476/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/476/A%20-%20Dreamoon%20and%20Stairs/solution.cpp) |
-| 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.cpp) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
-| 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.cpp) |
 | 742A | [Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/742/A%20-%20Arpa%E2%80%99s%20hard%20exam%20and%20Mehrdad%E2%80%99s%20naive%20cheat/solution.cpp) |
 | 1520A | [Do Not Be Distracted!](https://codeforces.com/contest/1520/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/1520/A%20-%20Do%20Not%20Be%20Distracted!/solution.cpp) |
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/1676/A%20-%20Lucky%3F/solution.cpp) |
@@ -100,28 +79,22 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.cpp) |
 | 476A | [Dreamoon and Stairs](https://codeforces.com/contest/476/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/476/A%20-%20Dreamoon%20and%20Stairs/solution.cpp) |
 | 584A | [Olesya and Rodion](https://codeforces.com/contest/584/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/584/A%20-%20Olesya%20and%20Rodion/solution.cpp) |
 | 742A | [Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/742/A%20-%20Arpa%E2%80%99s%20hard%20exam%20and%20Mehrdad%E2%80%99s%20naive%20cheat/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
-| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 313A | [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/313/A%20-%20Ilya%20and%20Bank%20Account/solution.cpp) |
-| 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.cpp) |
 | 742A | [Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/742/A%20-%20Arpa%E2%80%99s%20hard%20exam%20and%20Mehrdad%E2%80%99s%20naive%20cheat/solution.cpp) |
-| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/34/B%20-%20Sale/solution.cpp) |
 | 977C | [Less or Equal](https://codeforces.com/contest/977/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Anas22102006/Codeforces-DSA/blob/HEAD/977/C%20-%20Less%20or%20Equal/solution.cpp) |
 
 ### strings
